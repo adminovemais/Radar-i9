@@ -34,8 +34,8 @@ Nota MÉDIA (5-7): tecnologia nova de baterias, preço do lítio, mercado global
 Nota BAIXA (0-4): notícia genérica de energia, carro elétrico sem relação com bateria, propaganda, assunto fora do setor."""
 
 [email]
-alerta = ["radar.i9.teste@example.com"]   # destino de teste — trocar pelo do Sandro só depois que ele aprovar
-digest = ["radar.i9.teste@example.com"]   # idem
+alerta = ["Guifernas0@gmail.com"]   # destino de teste — trocar pelo do Sandro só depois que ele aprovar
+digest = ["Guifernas0@gmail.com"]   # idem
 
 # ---------------- Termos ----------------
 # marca = true → dispara Alerta no mesmo dia. idiomas = [] → só detecta a marca, não busca.
