@@ -35,7 +35,7 @@ Nota BAIXA (0-4): notícia genérica de energia, carro elétrico sem relação c
 
 [email]
 alerta = ["sandro@inovemais.tec.br", "adm@inovemais.tec.br", "suporte@inovemais.tec.br"]   # destino de teste — trocar pelo do Sandro só depois que ele aprovar
-digest = ["sandro@inovemais.tec.br"]   # idem
+digest = ["adm@inovemais.tec.br"]   # idem
 
 # ---------------- Termos ----------------
 # marca = true → dispara Alerta no mesmo dia. idiomas = [] → só detecta a marca, não busca.
